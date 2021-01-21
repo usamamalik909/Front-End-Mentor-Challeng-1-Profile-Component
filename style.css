@@ -1,35 +1,4 @@
-/* 
-body{
-background: url(images/bg-pattern-top.svg) right calc(50% + 520px) top -500px no-repeat, url(images/bg-pattern-bottom.svg) bottom 245% left calc(50% + 460px) no-repeat;
-background-color: hsl(185, 75%, 39%);
-background-origin: content-box;
-font-family: 'Kumbh Sans', sans-serif;
-display: flex;
-justify-content: center;
-align-items: center;
-min-height: 720px;
-max-width: 1440px;
-margin: 0 auto;
-text-align: center;
-}
-.card{
-    max-width: 23.4375rem;
-    border-radius: 20px;
-    background-color: white;
-    background: url(images/bg-pattern-card.svg);
-    
-}
-.text{
-    background: white;
-    border-radius: 0px 0px  20px 20px;
-}
 
-.profile-image img{
-    border-radius: 50%;
-}
-.attribution{
-    display: flex;
-} */
 body{
 
 background: url(images/bg-pattern-top.svg) right calc(50% + 520px) top -500px no-repeat, url(images/bg-pattern-bottom.svg) bottom 245% left calc(50% + 460px) no-repeat;
